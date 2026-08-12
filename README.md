@@ -28,3 +28,47 @@ I'm currently gaining hands-on experience through technical projects, workshops,
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+
+### 💼 Current Roles & Involvement
+
+* 🎓 Computer Engineering Student — Polytechnic University of the Philippines
+* ☁️ Programs Office — AWS User Group e:Novators Philippines
+* 🤝 Volunteer — DEVCON Manila
+
+### 🏆 Hackathons & Competitions
+
+* AWS Builders+ Pride Month Hackathon & Ideathon
+
+### ☁️ AWS & Cloud Activities
+
+* AWS Learning Club POLAR
+* AWS Student Builder Group PUP
+* AWS community events and learning sessions
+* Hands-on practice with AWS EC2 and VPC
+* Practice with public and private subnets
+* Familiarity with Security Groups and least-privilege concepts
+
+### 🎓 Workshops & Learning Events
+
+* AWS Cloud & Infrastructure Workshops
+* UI/UX Fundamentals Workshop
+* Frontend Development Workshops
+* AI & Technology Workshops
+* Cloud Security Learning Sessions
+
+### 💻 Technical Interests
+
+* AWS & Cloud Computing
+* Cloud Security
+* Software Development
+* Backend & Frontend Development
+* UI/UX Design with Figma
+* Project Development
+
+### 📚 Currently Learning
+
+I'm continuously developing my technical skills through hands-on projects, AWS community activities, workshops, and academic work while building a strong foundation for a career in cloud and software technology.
+
+### 🎯 Career Goal
+
+To gain hands-on experience in cloud technologies and software development while continuously improving my technical skills and contributing to meaningful technology projects.
