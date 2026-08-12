@@ -29,7 +29,6 @@ I'm currently gaining hands-on experience through technical projects, workshops,
 
 ### 💼 Current Roles & Involvement
 
-* 🎓 Computer Engineering Student — Polytechnic University of the Philippines
 * ☁️ Programs Office — AWS User Group e:Novators Philippines
 * 🤝 Volunteer — DEVCON Manila
 
