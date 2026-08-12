@@ -67,3 +67,7 @@ I'm continuously developing my technical skills through hands-on projects, AWS c
 ### 🎯 Career Goal
 
 To gain hands-on experience in cloud technologies and software development while continuously improving my technical skills and contributing to meaningful technology projects.
+
+###🌱 Beyond Coding
+
+I'm also interested in participating in technology communities, workshops, and collaborative projects where I can learn from others, share knowledge, and grow as a future technology professional.
